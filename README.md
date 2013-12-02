@@ -21,6 +21,12 @@ conceal(str, { start: 4, end: 6 });
 
 ```
 
+## Install
+
+```
+npm install conceal
+```
+
 ## License
 
 MIT

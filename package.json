@@ -1,0 +1,21 @@
+{
+  "name": "conceal",
+  "version": "1.0.0",
+  "description": "Simple micro-module that masks strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+      "string",
+      "mask",
+      "conceal",
+      "password",
+      "hide"
+  ],
+  "author": "Sergi Mansilla",
+  "devDependencies": {
+    "tape": "~2.1.0"
+  },
+  "license": "MIT"
+}
